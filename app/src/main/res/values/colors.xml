@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme colors matching your SmartPermissionAnalyzerTheme -->
+    <color name="primary_teal">#00796B</color>
+    <color name="secondary_cyan">#03DAC6</color>
+    <color name="tertiary_purple">#3700B3</color>
+
+    <!-- ✅ FIXED: Risk level colors for drawable files -->
+    <color name="risk_critical">#D32F2F</color>
+    <color name="risk_high">#F57C00</color>
+    <color name="risk_medium">#FBC02D</color>
+    <color name="risk_low">#388E3C</color>
+    <color name="risk_minimal">#4CAF50</color>
+
+    <!-- ✅ FIXED: Material Design default colors -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- Light theme colors -->
+    <color name="background_light">#FFFBFE</color>
+    <color name="surface_light">#FFFBFE</color>
+    <color name="primary_container_light">#E0F2F1</color>
+    <color name="on_primary_container_light">#00251A</color>
+
+    <!-- Dark theme colors -->
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="primary_container_dark">#004D40</color>
+    <color name="on_primary_container_dark">#80CBC4</color>
+
+    <!-- System colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Error colors -->
+    <color name="error_light">#B00020</color>
+    <color name="error_dark">#CF6679</color>
+    <color name="error_container_light">#FFDAD6</color>
+    <color name="on_error_container_light">#410002</color>
+
+    <!-- ✅ ADDITIONAL: Security-related colors -->
+    <color name="security_green">#4CAF50</color>
+    <color name="security_orange">#FF9800</color>
+    <color name="security_red">#F44336</color>
+    <color name="security_blue">#2196F3</color>
+    <color name="security_gray">#9E9E9E</color>
+
+    <!-- ✅ UI element colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider_color">#E0E0E0</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+</resources>

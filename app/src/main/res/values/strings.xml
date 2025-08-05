@@ -1,0 +1,172 @@
+<resources>
+    <!-- ✅ KEPT: Your existing app name -->
+    <string name="app_name">Argus</string>
+
+    <!-- ✅ NEW: App description and tagline -->
+    <string name="app_description">Every Permission Analyzed. Every Risk Detected.</string>
+    <string name="app_tagline">Every Permission Analyzed. Every Risk Detected.</string>
+    <string name="app_full_name">Argus - Smart Permission Analyzer</string>
+
+    <!-- ✅ KEPT: Your existing dashboard strings -->
+    <string name="scan_apps">Scan All Apps</string>
+    <string name="scanning">Scanning Apps…</string>
+    <string name="apps_analyzed">Apps Analyzed</string>
+    <string name="last_scan">Last scan: %1$s</string>
+
+    <!-- ✅ KEPT: Your existing risk level strings -->
+    <string name="risk_critical">Critical Risk</string>
+    <string name="risk_high">High Risk</string>
+    <string name="risk_medium">Medium Risk</string>
+    <string name="risk_low">Low Risk</string>
+    <string name="risk_minimal">Minimal Risk</string>
+
+    <!-- ✅ KEPT: Your existing permission strings -->
+    <string name="permissions_count">%1$d permissions</string>
+    <string name="suspicious_permissions">%1$d suspicious</string>
+    <string name="no_suspicious_permissions">No suspicious permissions</string>
+
+    <!-- ✅ KEPT: Your existing category strings -->
+    <string name="category_game">Game</string>
+    <string name="category_social">Social</string>
+    <string name="category_utility">Utility</string>
+    <string name="category_finance">Finance</string>
+    <string name="category_communication">Communication</string>
+    <string name="category_system">System</string>
+    <string name="category_unknown">Unknown</string>
+
+    <!-- ✅ NEW: Additional categories for better coverage -->
+    <string name="category_photography">Photography</string>
+    <string name="category_music_and_audio">Music &amp; Audio</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_maps_and_navigation">Maps &amp; Navigation</string>
+    <string name="category_weather">Weather</string>
+    <string name="category_health">Health &amp; Fitness</string>
+    <string name="category_news">News</string>
+    <string name="category_productivity">Productivity</string>
+    <string name="category_tools">Tools</string>
+
+    <!-- ✅ KEPT: Your existing error messages -->
+    <string name="error_permission_denied">Permission denied. Cannot analyze apps.</string>
+    <string name="error_scan_failed">Scan failed. Please try again.</string>
+    <string name="error_no_apps_found">No apps found to analyze.</string>
+
+    <!-- ✅ NEW: Additional error messages -->
+    <string name="error_loading_apps">Argus encountered an error while loading apps</string>
+    <string name="error_database_error">Database error occurred</string>
+    <string name="error_network_error">Network connection error</string>
+
+    <!-- ✅ KEPT: Your existing actions -->
+    <string name="retry">Retry</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="view_details">View Details</string>
+
+    <!-- ✅ NEW: Additional actions -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="export">Export</string>
+
+    <!-- ✅ KEPT: Your existing content descriptions -->
+    <string name="app_icon_description">App icon for %1$s</string>
+    <string name="risk_level_indicator">Risk level: %1$s</string>
+
+    <!-- ✅ NEW: Navigation strings (required for proper app functionality) -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Argus</string>
+    <string name="nav_header_subtitle">Your All-Seeing Guardian</string>
+
+    <!-- ✅ NEW: Dashboard strings -->
+    <string name="dashboard_title">Argus Dashboard</string>
+    <string name="security_analysis_title">Security Analysis</string>
+    <string name="recommendations_title">AI Recommendations</string>
+    <string name="settings_title">Settings</string>
+    <string name="notifications_title">Notifications</string>
+
+    <!-- ✅ NEW: Welcome and loading messages -->
+    <string name="welcome_message">Welcome to Argus</string>
+    <string name="loading">Loading...</string>
+    <string name="initializing">Initializing Argus...</string>
+    <string name="preparing_analysis">Preparing security analysis...</string>
+    <string name="loading_permissions">Loading app permissions...</string>
+    <string name="setting_up_dashboard">Setting up dashboard...</string>
+    <string name="ready">Ready!</string>
+
+    <!-- ✅ NEW: Notification strings -->
+    <string name="notification_channel_name">Argus Security Alerts</string>
+    <string name="notification_channel_description">Security alerts and recommendations from Argus</string>
+    <string name="scan_completed">Argus completed security scan</string>
+    <string name="new_risk_detected">New security risk detected</string>
+
+    <!-- ✅ NEW: About and help strings -->
+    <string name="about_app_title">About Argus</string>
+    <string name="about_app_description">Argus is your intelligent guardian for app security analysis. Every permission analyzed, every risk detected.</string>
+    <string name="version">Version</string>
+    <string name="help">Help</string>
+    <string name="contact_support">Contact Support</string>
+
+    <!-- ✅ NEW: Export and sharing strings -->
+    <string name="export_report_title">Argus Security Report</string>
+    <string name="share_report_title">Share Argus Report</string>
+    <string name="export_success">Report exported successfully</string>
+    <string name="export_failed">Failed to export report</string>
+
+    <!-- ✅ NEW: Security analysis strings -->
+    <string name="security_score">Security Score</string>
+    <string name="risk_score">Risk Score: %1$d</string>
+    <string name="trust_score">Trust Score: %.1f</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="never_scanned">Never scanned</string>
+
+    <!-- ✅ NEW: App details strings -->
+    <string name="app_name_label">App Name</string>
+    <string name="package_name_label">Package Name</string>
+    <string name="version_name_label">Version</string>
+    <string name="install_date_label">Installed</string>
+    <string name="last_update_label">Last Updated</string>
+    <string name="app_size_label">Size</string>
+    <string name="is_system_app">System App</string>
+    <string name="user_app">User App</string>
+
+    <!-- ✅ NEW: Permission analysis strings -->
+    <string name="permission_analysis">Permission Analysis</string>
+    <string name="dangerous_permissions">Dangerous Permissions</string>
+    <string name="normal_permissions">Normal Permissions</string>
+    <string name="signature_permissions">Signature Permissions</string>
+    <string name="critical_permissions_count">Critical: %1$d</string>
+    <string name="permission_density">Permission Density: %.1f</string>
+
+    <!-- ✅ NEW: Recommendation strings -->
+    <string name="recommendations">Recommendations</string>
+    <string name="no_recommendations">No recommendations at this time</string>
+    <string name="review_permissions">Review app permissions</string>
+    <string name="consider_uninstalling">Consider uninstalling this app</string>
+    <string name="update_app">Update this app for better security</string>
+
+    <!-- ✅ NEW: Search and filter strings -->
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps...</string>
+    <string name="filter">Filter</string>
+    <string name="filter_by_risk">Filter by Risk Level</string>
+    <string name="filter_by_category">Filter by Category</string>
+    <string name="clear_filters">Clear Filters</string>
+    <string name="sort_by">Sort by</string>
+    <string name="sort_by_name">Name</string>
+    <string name="sort_by_risk">Risk Score</string>
+    <string name="sort_by_date">Install Date</string>
+
+    <!-- ✅ NEW: Empty states -->
+    <string name="no_apps_to_display">No apps to display</string>
+    <string name="no_search_results">No apps match your search</string>
+    <string name="empty_category">No apps in this category</string>
+
+    <!-- ✅ NEW: Time and date formats -->
+    <string name="time_just_now">Just now</string>
+    <string name="time_minutes_ago">%1$d minutes ago</string>
+    <string name="time_hours_ago">%1$d hours ago</string>
+    <string name="time_days_ago">%1$d days ago</string>
+    <string name="time_never">Never</string>
+</resources>

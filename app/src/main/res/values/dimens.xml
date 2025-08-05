@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Standard spacing -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+
+    <!-- Card dimensions -->
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+
+    <!-- App icon sizes -->
+    <dimen name="app_icon_small">32dp</dimen>
+    <dimen name="app_icon_medium">48dp</dimen>
+    <dimen name="app_icon_large">64dp</dimen>
+
+    <!-- Button dimensions -->
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+
+    <!-- Risk badge dimensions -->
+    <dimen name="risk_badge_height">24dp</dimen>
+    <dimen name="risk_badge_corner_radius">12dp</dimen>
+</resources>
