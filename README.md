@@ -303,6 +303,16 @@ text
 
 ---
 
+## ☕ Support Me
+
+If you like my work, consider buying me a coffee!
+
+<a href="https://buymeacoffee.com/alfaizshaikh03" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+</a>
+
+---
+
 ## 📞 **Support & Contact**
 
 - **Issues**: [GitHub Issues](../../issues)
