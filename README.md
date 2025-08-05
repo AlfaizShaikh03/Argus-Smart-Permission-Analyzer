@@ -63,11 +63,12 @@ Smart Permission Analyzer is an advanced Android security tool designed to help 
 
 ## 📱 **Screenshots**
 
-| Dashboard | App Details | Security Analysis | Recommendations |
-|-----------|-------------|-------------------|----------------|
-| *Dashboard view showing risk overview* | *Detailed app permission analysis* | *Security metrics and scores* | *AI-powered security tips* |
+| Dashboard | App Details | Notifications | Recommendations |
+|-----------|-------------|---------------|----------------|
 
-> 📸 *Screenshots coming soon - app in active development*
+> 📸 ![main png](https://github.com/user-attachments/assets/32e30ae8-23a4-4953-a62b-701598259f69) ![appdetail png](https://github.com/user-attachments/assets/ed8139af-8d08-48f3-901e-97ab7c77154b) ![notification png](https://github.com/user-attachments/assets/ee77316f-f841-4670-bffe-bacd00152b18) ![recommendations png](https://github.com/user-attachments/assets/601e8779-4916-4679-866c-3940adc2e92a)
+
+
 
 ---
 
@@ -218,28 +219,6 @@ We welcome contributions from the community! Here's how you can help:
 - Write comprehensive tests
 - Document new features
 - Maintain backwards compatibility
-
----
-
-## 📋 **Roadmap**
-
-### **Version 1.1** (Coming Soon)
-- [ ] Multi-language support
-- [ ] Advanced filtering options
-- [ ] Network monitoring features
-- [ ] Enhanced export formats
-
-### **Version 1.2** (Planned)
-- [ ] App usage analytics
-- [ ] Custom risk profiles
-- [ ] Batch app operations
-- [ ] Cloud backup support
-
-### **Version 2.0** (Future)
-- [ ] AI-powered threat detection
-- [ ] Community threat database
-- [ ] Advanced reporting dashboard
-- [ ] Enterprise features
 
 ---
 
