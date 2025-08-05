@@ -317,7 +317,7 @@ If you like my work, consider buying me a coffee!
 
 - **Issues**: [GitHub Issues](../../issues)
 - **Discussions**: [GitHub Discussions](../../discussions)
-- **Email**: support@smartpermissionanalyzer.com
+- **Email**: alfaiz.shaikh.work@gmail.com
 - **Documentation**: [Wiki](../../wiki)
 
 ---
